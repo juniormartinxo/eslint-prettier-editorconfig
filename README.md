@@ -1,4 +1,9 @@
-# Configurar ESLINT + PRETTIER + EDITORCONFIG
+# Configurar ESLINT + PRETTIER + EDITORCONFIG no VSCode
+
+## Extensões
+- EditorConfig for VS Code
+- ESLint
+- Prettier - Code formatter
 
 ## Instalando o ESLINT
 > npm i eslint -D
