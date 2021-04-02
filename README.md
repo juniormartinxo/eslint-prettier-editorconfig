@@ -1,4 +1,4 @@
-# Instalar ESLINT + PRETTIER + EDITORCONFIG
+# Configurar ESLINT + PRETTIER + EDITORCONFIG
 
 ## Instalando o ESLINT
 > npm i eslint -D
